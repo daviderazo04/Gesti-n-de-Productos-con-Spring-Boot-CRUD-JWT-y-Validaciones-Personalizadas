@@ -1,6 +1,9 @@
 # Gestión de Productos con Spring Boot CRUD, JWT, AWS y Validaciones Personalizadas
 
 Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar productos utilizando Spring Boot. Implementa autenticación mediante JWT y validaciones personalizadas para garantizar la integridad de los datos.
+## Demostración de la App
+
+[![Demostración Real App Gestión de Productos](./App.png)](https://www.youtube.com/watch?v=3EfuQNFbXWc)
 
 [![Gestion-de-Productos-con-Spring-Boot-CRUD-JWT-AWS-y-Validaciones-Personalizadas](https://img.youtube.com/vi/3EfuQNFbXWc/0.jpg)](https://www.youtube.com/watch?v=3EfuQNFbXWc)
 ## Características
