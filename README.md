@@ -2,6 +2,7 @@
 
 Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar productos utilizando Spring Boot. Implementa autenticación mediante JWT y validaciones personalizadas para garantizar la integridad de los datos.
 
+[![Gestion-de-Productos-con-Spring-Boot-CRUD-JWT-AWS-y-Validaciones-Personalizadas](https://img.youtube.com/vi/3EfuQNFbXWc/0.jpg)](https://www.youtube.com/watch?v=3EfuQNFbXWc)
 ## Características
 
 - **Gestión de productos**: Permite crear, leer, actualizar y eliminar productos.
@@ -60,5 +61,4 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para g
       ```
   - `DELETE /api/products/{id}`: 
     - **Descripción**: Elimina un producto por ID.
-    
-[![](https://markdown-videos.deta.dev/youtube/3EfuQNFbXWc)](https://youtu.be/3EfuQNFbXWc?si=_d_4r9vm69CdIwBb)
+
