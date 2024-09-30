@@ -60,3 +60,5 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para g
       ```
   - `DELETE /api/products/{id}`: 
     - **Descripción**: Elimina un producto por ID.
+    
+[![](https://markdown-videos.deta.dev/youtube/3EfuQNFbXWc)](https://youtu.be/3EfuQNFbXWc?si=_d_4r9vm69CdIwBb)
